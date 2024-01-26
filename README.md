@@ -9,9 +9,5 @@ sorting algorithm
 bubble sort method.
 minor changes
 some changes
-minor changes
-some changes
-do changes
-sorting algorithm 
-Algoritham start
-demo work
+minor we changes
+som
