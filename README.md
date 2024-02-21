@@ -7,5 +7,5 @@ started leet code simple
 two sum of array 
 sorting algorithm 
 bubble sort method.
-minor changes
+DSA 
 
