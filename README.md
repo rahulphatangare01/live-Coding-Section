@@ -8,4 +8,5 @@ two sum of array
 sorting algorithm 
 bubble sort method.
 DSA 
+update 
 
